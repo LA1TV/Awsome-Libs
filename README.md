@@ -6,6 +6,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Node.js
 
+- [mongodb](http://www.slideshare.net/YnonPerek/getting-started-with-mongodb-and-mongoose) - Tutorial dealing with mongodb and mongoose
+- [passport.js](http://dailyjs.com/2011/01/10/node-tutorial-9/) - Building a NodeJS web app
+
 ## PHP
 
 ## Ruby
