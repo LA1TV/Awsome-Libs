@@ -7,6 +7,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## General
 
 - [US Government Web Design Standards](https://playbook.cio.gov/designstandards/) - "Open source UI components and visual style guide to create consistency and beautiful user experiences"
+- [Gifcam](http://blog.bahraniapps.com/gifcam/) - Nice little GIF Recorder
 
 ## Node.js
 
